@@ -1,1 +1,0 @@
-This a test code for this repo portfolio.
